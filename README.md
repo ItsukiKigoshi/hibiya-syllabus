@@ -9,3 +9,9 @@
 
 -  同内容講座で複数開講の場合はそのうち1つが取れるように
 - 規定コマ数に達しているか？チェック
+
+## Use Cases
+
+- [Reactで時間割アプリを作ってみた - Qiita](https://qiita.com/kaki765/items/79d1235f5344877c56a5)
+- [時間割表を作成するサイトを作ってみた | Zenn](https://zenn.dev/501a/articles/1772f7ce5aa384)
+- [筑波大学 KdBっぽいなにか | GithHub Pages](https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/)
